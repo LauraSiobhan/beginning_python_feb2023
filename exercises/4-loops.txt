@@ -10,6 +10,11 @@ Hint: A for loop looks like this:
 for item in items:
     print(item)
 
+To run a Python file, on the command line, type:
+
+python3 exercise_4_1.py
+- or -
+python exercise_4_1.py
 
 2. In a new file, use the range() function in a for loop to print out
 the result of multiplying 5 times the numbers 1 through 10.
